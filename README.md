@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+I have written, designed, and developed.
